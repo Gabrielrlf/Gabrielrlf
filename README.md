@@ -6,9 +6,9 @@
 <h2>🔭 I’m currently working on: 
 º Farmácias Pague Menos. </h2>
 <h2>🌱 I’m currently learning:
-º React. </h2
+º React. </h2>
 <h2> ⚡ My technologies:
-º C# .Net Core, React, Javascript, Sql Server, Git, CSS, HTML... </h2
+º C# .Net Core, React, Javascript, Sql Server, Git, CSS, HTML... </h2>
 <h2> My level is: Programmer Jr </h2> </p> </p>
   
   
