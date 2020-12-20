@@ -13,7 +13,7 @@
   
   
 <h1> LINKEDIN: www.linkedin.com/in/gf0212/ </h1>
-<h1> MY SITE: www.gabrielrlf.github.io/LandingPage-layout/ </h1>
+<h1> MY SITE: https://gabrielrlf.github.io/ </h1>
 <!--
 **Gabrielrlf/Gabrielrlf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   -->
