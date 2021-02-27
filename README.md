@@ -1,8 +1,7 @@
 ### Hi there 👋
 <h1> Hello, welcome my profile! </h1>
 
-</p> <h1> Gabriel Fonseca </h1>
-
+</p> <h1> Gabriel Fonseca 
 <h2>🔭 I’m currently working on: 
 º Farmácias Pague Menos. </h2>
 <h2>🌱 I’m currently learning:
@@ -14,6 +13,9 @@
   
 <h1> LINKEDIN: www.linkedin.com/in/gf0212/ </h1>
 <h1> MY SITE: https://gabrielrlf.github.io/ </h1>
+</h1>
+
+
 <!--
 **Gabrielrlf/Gabrielrlf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   -->
