@@ -1,19 +1,18 @@
 ### Hi there 👋
 <h1> Hello, welcome my profile! </h1>
 
-</p> <h1> Gabriel Fonseca 
-<h2>🔭 I’m currently working on: 
+</p> Gabriel Fonseca 
+🔭 I’m currently working on: 
 º Farmácias Pague Menos. </h2>
-<h2>🌱 I’m currently learning:
+🌱 I’m currently learning:
 º React. </h2>
-<h2> ⚡ My technologies:
+ ⚡ My technologies:
 º C# .Net Core, React, Javascript, Sql Server, Git, CSS, HTML... </h2>
-<h2> My level is: Programmer Jr </h2> </p> </p>
+ My level is: Programmer PL </p> </p>
   
   
-<h1> LINKEDIN: www.linkedin.com/in/gf0212/ </h1>
-<h1> MY SITE: https://gabrielrlf.github.io/ </h1>
-</h1>
+LINKEDIN: www.linkedin.com/in/gf0212/
+ MY SITE: https://gabrielrlf.github.io/
 
 
 <!--
