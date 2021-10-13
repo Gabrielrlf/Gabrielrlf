@@ -3,12 +3,12 @@
 
 </p> Gabriel Fonseca 
 🔭 I’m currently working on: 
-º Farmácias Pague Menos. </h2>
+º CPQi Group. </h2>
 🌱 I’m currently learning:
 º React. </h2>
  ⚡ My technologies:
-º C# .Net Core, React, Javascript, Sql Server, Git, CSS, HTML... </h2>
- My level is: Programmer PL </p> </p>
+º C# .Net Core, React, Javascript, Java, Sql Server, Git, CSS, HTML... </h2>
+</p> </p>
   
   
 LINKEDIN: www.linkedin.com/in/gf0212/
