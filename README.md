@@ -12,8 +12,6 @@
   
   
 LINKEDIN: www.linkedin.com/in/gf0212/
- MY SITE: https://gabrielrlf.github.io/
-
 
 <!--
 **Gabrielrlf/Gabrielrlf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
