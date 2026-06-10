@@ -20,7 +20,7 @@ Over 6+ years, I've worked across financial services, banking, gaming, and enter
 
 ### Backend
 
-* .NET 8/10
+* .NET
 * ASP.NET Core
 * Minimal APIs
 * Node.js
